@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Nanma-Re/Nanma-Re.csproj" />
+  <Project Path="Nanma.Application/Nanma.Application.csproj" />
+  <Project Path="Nanma.Domain/Nanma.Domain.csproj" />
+  <Project Path="Nanma.Infrastructure/Nanma.Infrastructure.csproj" />
+  <Project Path="Nanma.Tests/Nanma.Tests.csproj" />
+</Solution>
